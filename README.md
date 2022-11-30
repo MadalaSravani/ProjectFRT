@@ -8,7 +8,7 @@ Project Link - https://victorious-smoke-066ad4600.2.azurestaticapps.net
 
 project demo video link-
 
-project link(github repository) - 
+project link(github repository) -  https://madalasravani.github.io/ProjectFRT/ 
 
 Azure technologies used for Project
 Static web apps
